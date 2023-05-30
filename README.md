@@ -92,9 +92,7 @@ Toate datele sunt transmise in mod serial, câte un bit pe rând, iar fiecare by
 
 Datele trimise de dispozitiv către gazdă sunt citite pe frontul descendent al clock-ului; datele trimise de gazdă către dispozitiv sunt citite pe frontul ascendent. Frecvența ceasului trebuie să fie în intervalul 10kHz – 16.7kHz. Aceasta înseamnă că semnalul de clock trebuie să fie High timp de 30 - 50 de microsecunde și Low timp de 30 - 50 de microsecunde.
 
-![A row of black hexagons
-
-Description automatically generated with low confidence](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.005.jpeg)
+![Test](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.005.jpeg)
 
 *Figura 8: Un pachet de un byte transmis Host to Device*
 
