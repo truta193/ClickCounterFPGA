@@ -106,15 +106,11 @@ O extensie populară pentru mouse-ul standard PS/2 este Microsoft Intellimouse. 
 
 # <a name="_toc136267929"></a>2. Proiectare
 ## <a name="_toc136267930"></a>2.1. Schema bloc
-![A picture containing text, screenshot, font, line
-
-Description automatically generated](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.008.png)
+![Schema bloc](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.008.png)
 
 *Figura 1: Blackbox-ul sistemului cu intrările și ieșirile stabilite*
 ## <a name="_toc136267931"></a>2.2. Unitatea de control și unitatea de execuție
-![A picture containing diagram, text, plan, technical drawing
-
-Description automatically generated](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.009.png)
+![UC si UE](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.009.png)
 
 *Figura 2: Map-ul intrărilor și ieșirilor cutiei negre după prima descompunere*
 
@@ -150,9 +146,7 @@ Manager-ul de afișor (Seven Segment Display) este o componentă mai complexă d
 
 Separarea cifrelor se face cu ajutorul unui algoritm simplu care constă în operații repetate de împărțire cu rest la numărul 10. Fiecărei cifre îi este atribuită un cod pentru catozi care este mai apoi transmis mai departe către afișor. Mai departe va fi descrisă în detaliu structura internă a resursei, care poate fi observată în schema de mai jos.
 
-![A diagram of a computer
-
-Description automatically generated with low confidence](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.014.png)
+!Internals of the SSD Manager](Aspose.Words.d1705385-6404-4e2f-83f4-a251abc6bcb2.014.png)
 
 *Figura 7: Structura internă a managerului de afișoare*
 #### <a name="_toc136267937"></a>*2.5.2.1. Frequency Divider*
